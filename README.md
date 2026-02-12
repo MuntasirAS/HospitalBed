@@ -1,5 +1,5 @@
 
-# nhs_mas — LSTM‑driven Multi‑Agent Load Balancing
+# nhs_mas — LSTM‑driven Multi‑Agent Load Balancing - Muntasir Al-Asfoor
 
 A modular Python package that trains an LSTM forecaster on **occupancy rates** and runs a 
 **multi‑agent system** (MAS) to balance NHS bed occupancy across trusts and specialties. 
@@ -25,5 +25,4 @@ The script writes `simulation_output.csv` with post‑balancing occupancy by tru
 ## Package layout
 See `nhs_mas/` for modules: `config/`, `data/`, `models/`, `agents/`, `simulation/`, `utils/`.
 
-## Publish to GitHub
-See **PUBLISH_TO_GITHUB.md** for step‑by‑step instructions.
+ 
